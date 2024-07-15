@@ -1,0 +1,404 @@
+.img {
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.nav .logo {
+    position: absolute;
+    top: 20px;
+    left: 40px;
+    width: 50px;
+    z-index: 11;
+}
+
+.nav .nav-links-left {
+    position: absolute;
+    top: 41px;
+    left: 570px;
+    z-index: 11;
+    list-style: none;
+}
+
+.nav-links-left li {
+    font-weight: 600;
+    float: left;
+    margin-left: 20px;
+}
+
+.nav-links-right {
+    position: absolute;
+    left: 1330px;
+    top: 42px;
+    z-index: 11;
+    list-style: none;
+}
+
+.nav-links-right li {
+    font-weight: bold;
+    float: left;
+    margin-left: 20px;
+}
+
+.nav-links-right i {
+    font-size: large;
+}
+
+.heading {
+    margin-top: 105px;
+    margin-left: 580px;
+}
+
+.heading h1 {
+    margin-left: 127px;
+    font-weight: bolder;
+}
+
+.heading h2 {
+    font-weight: bold;
+}
+.heading-text{
+    margin-left: 18px;
+}
+
+.buttons {
+    margin-top: 465px;
+    margin-left: 475px;
+}
+
+.buttons button {
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.btn1 {
+    background-color: black;
+    color: white;
+}
+
+.btn2 {
+    background-color: white;
+    color: black;
+}
+
+.img1 {
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.row1 {
+    position: relative;
+    width: 100%;
+    z-index: 12;
+}
+
+.second-content {
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13;
+}
+
+.second-content h1 {
+    margin-left: 127px;
+    font-weight: bolder;
+}
+
+.second-content h2 {
+    font-weight: bold;
+}
+
+.second-content .head-1 {
+    margin-left: 105px;
+}
+
+.second-content .head-2 {
+    margin-left: 50px;
+}
+
+.row1-buttons {
+    margin-left: -121px;
+    margin-top: 363px;
+}
+
+.row1-buttons button {
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.img2 {
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.row2 {
+    position: relative;
+    width: 100%;
+    z-index: 12;
+}
+.third-content{
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13;
+}
+.third-content h1{
+    margin-left: 120px;
+    font-weight: bold;
+}
+.third-content h2{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.row2-buttons{
+   margin-top: 390px; 
+   margin-left: -125px;
+}
+.row2-buttons button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+.img3{
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.row3{
+    position: relative;
+    width: 100%;
+    z-index: 12; 
+}
+.fourth-content{
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13;
+    color: white;
+}
+.fourth-content h1{
+    margin-left: 120px;
+    font-weight: bold;
+}
+.fourth-content h2{
+    margin-left: 100px;
+    font-weight: bold;
+}
+.row3-buttons{
+    margin-top: 390px; 
+    margin-left: -125px;
+ }
+ .row3-buttons button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+ }
+ .img4{
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.row4{
+    position: relative;
+    width: 100%;
+    z-index: 12; 
+}
+.fifth-content{
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13; 
+}
+.row4-buttons{
+    margin-top: 510px; 
+    margin-left: -125px; 
+}
+.row4-buttons button{
+    padding: 10px;
+    width: 300px;
+ }
+ .img5{
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.row5{
+    position: relative;
+    width: 100%;
+    z-index: 12; 
+}
+.sixth-content{
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13;
+    color: white; 
+}
+.row5-buttons{
+    margin-top: 510px; 
+    margin-left: -125px; 
+}
+.row5-buttons button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+.sixth-content h1{
+    margin-left: 72px;
+    font-weight: bold;
+}
+.sixth-content h2{
+    font-weight: bold;
+}
+.img6{
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.row6{
+    position: relative;
+    width: 100%;
+    z-index: 12; 
+}
+.seventh-content{
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13;
+}
+.row6-buttons{
+    margin-top: 510px; 
+    margin-left: -125px; 
+}
+.row6-buttons button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+.seventh-content h1{
+    margin-left: 120px;
+    font-weight: bold;
+}
+.seventh-content h2{
+    font-weight: bold;
+}
+.img7{
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.row7{
+    position: relative;
+    width: 100%;
+    z-index: 12; 
+}
+.eighth-content{
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13;
+}
+.row7-buttons{
+    margin-top: 510px; 
+    margin-left: -125px; 
+}
+.row7-buttons button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+.eighth-content h1{
+    margin-left: 49px;
+    font-size:xxx-large;
+    font-weight: bold;
+    margin-top: 65px;
+}
+.img8{
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.row8{
+    position: relative;
+    width: 100%;
+    z-index: 12; 
+}
+.ninth-content{
+    position: absolute;
+    top: 150px;
+    left: 570px;
+    z-index: 13;
+}
+.row8-buttons{
+    margin-top: 510px; 
+    margin-left: 35px; 
+}
+.row8-buttons button{
+    padding: 10px;
+    width: 300px;
+    border-radius: 10px;
+}
+.ninth-content h1{
+    margin-left: 49px;
+    font-size:xxx-large;
+    font-weight: bold;
+    margin-top: -50px;
+}
+.row9{
+    width: 100%;
+    height: 700px;
+    background-color: black;
+    color: white;
+}
+.tenth-content{
+    padding-left: 300px;
+    padding-top: 160px;
+}
+.footer{
+    padding-left: 415px;
+    padding-top: 180px;
+}
+.footer li{
+    float: left;
+    list-style: none;
+    margin-left: 15px;
+}
